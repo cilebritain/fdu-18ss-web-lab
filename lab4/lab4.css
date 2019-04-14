@@ -1,69 +1,6 @@
 
 h1 { font-size: 3em; font-weight: bold; margin-top: 0;}
 
-div#topHeaderRow {
-   font-size: 0.9em;
-   margin: 0 auto;
-   width: 90%;
-   height: 20%;
-   background-color: #3A3A3A;
-}
-
-#topHeaderRow li{
-   display: inline-block;
-   margin-right: 30px;
-}
-
-#topHeaderRow li:nth-child(1){
-   margin-left: 700px;
-}
-
-#topHeaderRow li a{
-   color: white;
-   text-decoration: none;
-}
-
-#topHeaderRow div{
-   color: white;
-   font-size: 20px;
-   margin-left: 20px;
-}
-
-#topHeaderRow div span{
-   font-weight: 700;
-}
-
-#logoRow{
-   width: 90%;
-   margin: 10px auto;
-}
-
-#logoRow h1,form{
-   display: inline;
-}
-
-#logoRow form{
-   float: right;
-}
-
-#logoRow form input{
-   margin-top: 10px;
-   height: 26px;
-   width: 250px;
-}
-
-#mainNavigationRow{
-   width: 90%;
-   margin: 0 auto;
-   background-color: #E1E4E4;
-}
-
-#mainNavigationRow li{
-   height: 40px;
-   width: 100px;
-   margin-left: 30px;
-   display: inline-block;
-}
 
 
 .price { 
