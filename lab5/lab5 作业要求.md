@@ -44,3 +44,38 @@ e.g. //github.com/veronicadavichi/**fdu-18ss-web-lab**
 # DDL
 
 截止时间为**2019年4月25日23:59:59**，也就是下周周四。
+
+
+         <!-- 这是你需要修改的地方 -->
+         <!-- 本来是下面这样👇 -->
+
+         <!-- <tr>
+            <td><img class="img-thumbnail" src="images/art/tiny/116010.jpg" alt="..."></td>
+            <td>Artist Holding a Thistle</td>
+            <td>2</td>
+            <td>$500</td>
+            <td>$1000</td>
+         </tr>
+         <tr>
+            <td><img class="img-thumbnail" src="images/art/tiny/113010.jpg" alt="..."></td>
+            <td>Self-portrait in a Straw Hat</td>
+            <td>1</td>
+            <td>$700</td>
+            <td>$700</td>
+         </tr>  -->
+         
+         <!-- 你需要按照图片上的要求使用javascript来完成 -->
+         <!-- 所需要的数据在这里 -->
+         <!--
+         $file1 = '116010.jpg';
+         $product1 = 'Artist Holding a Thistle';
+         $quantity1 = 2;
+         $price1 = 500;
+
+         $file2 = '113010.jpg';
+         $product2 = 'Self-portrait in a Straw Hat';
+         $quantity2 = 1;
+         $price2 = 700;
+        -->
+
+
