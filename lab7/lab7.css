@@ -43,11 +43,13 @@ h1 {
     background-color: white;
 
 }
-button {
+input[type='button'] {
     background-color: #EF6C00;
     color: white;
     border: 0;
     padding: 5px 10px;
+    width: 100px;
+    height: 30px;
 }
 
 figcaption {
@@ -74,9 +76,11 @@ figcaption {
     background-repeat:repeat; 
 }
 
-/* temp tester 
 #imgManipulated img {
-   filter: opacity(62%) brightness(50%) contrast(50%);   
--webkit-filter: opacity(62%) brightness(50%) contrast(50%);  
+    filter: opacity(100%);
+    filter: brightness(100%);
+    filter: saturate(100%);
+    filter: hue-rotate(0deg);
+    filter: grayscale(0%);
+    filter: blur(0px);     
 }
-*/
