@@ -2,4 +2,4 @@
 
 assignments of the course "web foundemental"
 
-spring 2019,fudan university
+spring 2019,Fudan university
